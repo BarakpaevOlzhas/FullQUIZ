@@ -1,0 +1,107 @@
+[
+        {
+        "id": 0,
+        "name_ru": "Правда ли, что выше головы не прыгнешь?",
+        "right_answer": true
+        },
+        {
+            "id": 1,
+            "name_ru": "Два плюс два равно трем?",
+            "right_answer": false
+        },
+        {
+            "id": 2,
+            "name_ru": "Интернет придумали в Америке?",
+            "right_answer": true
+        },
+        {
+            "id": 3,
+            "name_ru": "Рикардо Милос бразилец?",
+            "right_answer": true
+        },
+        {
+            "id": 4,
+            "name_ru": "True False?",
+            "right_answer": true
+        },
+        {
+            "id": 5,
+            "name_ru": "Первый президент России Путин??",
+            "right_answer": true
+        },
+        {
+            "id": 6,
+            "name_ru": "Олжас черный?",
+            "right_answer": true
+        },
+        {
+            "id": 6,
+            "name_ru": "Будешь играть дальше?",
+            "right_answer": true
+        },
+        {
+            "id": 7,
+            "name_ru": "?",
+            "right_answer": true
+        },
+        {
+            "id": 8,
+            "name_ru": "Есть ли RayTracing у видеокарт AMD?",
+            "right_answer": false
+        },
+        {
+            "id": 9,
+            "name_ru": "Существует ли синдром алисы в стране чудес?",
+            "right_answer": true
+        },
+        {
+            "id": 10,
+            "name_ru": "Линукс лучше Окна?",
+            "right_answer": true
+        },
+        {
+            "id": 11,
+            "name_ru": "Синдром Шерешевского-Тернера: 45 хромосом?",
+            "right_answer": true
+        },
+        {
+            "id": 12,
+            "name_ru": "Синдром волчанки высокая температура?",
+            "right_answer": false
+        },
+        {
+            "id": 13,
+            "name_ru": "Школу 11 классникам отменяют при -30?",
+            "right_answer": false
+        },
+        {
+            "id": 14,
+            "name_ru": "Надо ли быть программистом ?",
+            "right_answer": false
+        },
+        {
+            "id": 15,
+            "name_ru": "У видеокарты 1050 есть две версии: одна на 2 гб, а вторая на 4?",
+            "right_answer": false
+        },
+        {
+            "id": 16,
+            "name_ru": "Первый ПК изобрели Apple?",
+            "right_answer": false
+        },
+        {
+            "id": 17,
+            "name_ru": "Много ли денег надо чтобы быть бомжом?",
+            "right_answer": false
+        },
+        {
+            "id": 18,
+            "name_ru": "Интернет придумали в Махачкале?",
+            "right_answer": true
+        },
+        {
+            "id": 19,
+            "name_ru": "Интернет придумали в Грозном?",
+            "right_answer": false
+        }
+]
